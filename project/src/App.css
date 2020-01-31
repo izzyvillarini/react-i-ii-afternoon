@@ -1,0 +1,80 @@
+.bluebar{
+  width: 100%;
+  height: 100px;
+  background-color:aqua;
+  display: flex;
+  justify-content: baseline;
+  
+  font-size: 40px;
+  }
+  
+  .background{
+    background-color: black;
+    width: 100%;
+    height: 100vh;
+   
+  }
+  
+  .entry-box{
+    background-color: white;
+    height: 60%;
+    width: 80%;
+    margin-top: 60px;
+    display: flex;
+    margin-left: 125px;
+    
+    
+  }
+   .buttons{
+     width: 100%;
+     height: 50px;
+     display: flex;
+     justify-content: space-evenly;
+   }
+  
+   .button2{
+     color: white;
+     font-size: 20px;
+   }
+  
+   .button{
+     background-color: mediumblue;
+     color: white;
+     border-radius: 20px;
+     width: 80px;
+     height: 40px;
+   }
+  
+   .page{
+     position: absolute;
+     color: blue;
+     margin-top: 5px;
+     margin-left: 960px;
+     font-size: xx-large;
+   }
+  
+   .name{
+     position: absolute;
+     font-size: 45px;
+     margin-top: 10px;
+     margin-left: 80px;
+     text-decoration: underline blue;
+   }
+  
+   .info{
+     position: absolute;
+     
+     height: 125px;
+     width: 600px;
+     margin-left: 80px;
+     margin-top: 90px;
+     font-size: 20px;
+   }
+   .favmovies{
+     position: absolute;
+     height: 180px;
+     width: 600px;
+     margin-left: 80px;
+     margin-top: 250px;
+     font-size: 20px;
+   }
